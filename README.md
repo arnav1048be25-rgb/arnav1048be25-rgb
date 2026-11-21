@@ -9,6 +9,7 @@
 <br>
 
 ![GitHub](https://img.shields.io/badge/GitHub-Arnav_Sharma-181717?style=for-the-badge&logo=github)
+![Linkedin](https://www.linkedin.com/in/arnav-sharma-575b69426)
 ![AI Research](https://img.shields.io/badge/Frontier-AI_Research-8A2BE2?style=for-the-badge)
 ![Mathematics](https://img.shields.io/badge/Mathematical-Sciences-00599C?style=for-the-badge)
 ![Engineering](https://img.shields.io/badge/Computer-Engineering-FF6F00?style=for-the-badge)
